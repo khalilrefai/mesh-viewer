@@ -36,7 +36,7 @@ endif()
 
 ################################################################################
 
-project(mesh_viewer VERSION 2.4.0)
+project(mesh_viewer VERSION 1.0.0)
 
 # CMake module path
 list(PREPEND CMAKE_MODULE_PATH
