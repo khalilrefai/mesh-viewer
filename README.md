@@ -1,5 +1,5 @@
 # mesh-viewer
-![alt text](https://github.com/khalilrefai/mesh-viewer/tree/main/screenshot.png?raw=true)
+![screenshot](https://github.com/khalilrefai/mesh-viewer/blob/main/screenshot.png?raw=true)
 
 ## Overview
 
